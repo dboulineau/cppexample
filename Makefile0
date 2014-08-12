@@ -1,0 +1,4 @@
+CXX=g++ -Wall -ggdb
+
+helloworld.o: helloworld.cpp 
+
