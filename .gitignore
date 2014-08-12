@@ -1,0 +1,15 @@
+aclocal.m4
+.deps/*
+autom4te.cache
+*.log
+configure.scan
+*.bak
+compile
+config.status
+depcomp
+*.o
+helloworld
+missing
+Makefile
+Makefile.in
+Makefile.bak
