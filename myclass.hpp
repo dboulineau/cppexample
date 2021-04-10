@@ -15,4 +15,4 @@ public:
 private:
     std::string _name;
 };
-#endif
+#endif // _MYOBJ_DEFINED
