@@ -1,5 +1,9 @@
+# Getting started
+
 To initialize this project, run
-aclocal 
+```
+aclocal
 autoconf
 automake -a
 ./configure && make
+```

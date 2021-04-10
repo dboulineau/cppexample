@@ -29,7 +29,7 @@ void copystrings(char buf0[]) {
     char buf1[32];
     strcpy(buf1, buf0);
 }
-
+/* This is the entry point for this program */
 int main(int argc, char *argv[]) {
     overstep(1.0f);
     somefunc();
